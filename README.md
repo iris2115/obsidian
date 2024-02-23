@@ -1,0 +1,2 @@
+# obsidian
+apuntes sobre nanotecnologia
